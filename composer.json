@@ -1,0 +1,7 @@
+{
+    "name": "ubuntu/initphp",
+    "require": {},
+    "autoload": {
+        "psr-4": {"app\\": "src/"}
+    }
+}
